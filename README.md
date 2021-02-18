@@ -44,35 +44,18 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Animated-Collapsibles-in-React/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
-A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
-* Yarn
-* EditorConfig;
-* ESLint;
-* Prettier;
-
-The following item so we can have routes and have access to create multiple pages
-* React Router DOM;
-
-
-### Built With
-
-This section should list any major tools that you built your project using.
-* [VSCode](https://code.visualstudio.com/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Yarn](https://yarnpkg.com/)
+A project that I'm replicating what is going on in the page the following page: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_animate
+Ifound it while i while i was studing collapsibles in the following link: https://www.w3schools.com/howto/howto_js_collapsible.asp
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Use this as a template.
-Make a copy of this files locally and start your new project
-
+Make a copy of this project locally
 
 
 ### Prerequisites
@@ -131,10 +114,10 @@ With that the app will be running!!!
 
 ## Usage
 
-Here is a area to explain how the project works. In this case is a project to accelerate other projects.
+The idea is to click on any bar and it shall make a animation where it will open the text message and by clicking again it closes.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Animated-Collapsibles-in-React/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
 </br>
