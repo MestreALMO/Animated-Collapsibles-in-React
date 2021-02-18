@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+  padding: 10px 30px 10px 30px;
+
   .collapsible {
     background-color: #777;
     color: white;
