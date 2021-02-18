@@ -47,32 +47,15 @@
   <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
-A project created in ReactJS with TS that already includes, the following items to accelerate the production:
-* Yarn
-* EditorConfig;
-* ESLint;
-* Prettier;
-
-The following item so we can have routes and have access to create multiple pages
-* React Router DOM;
-
-
-### Built With
-
-This section should list any major tools that you built your project using.
-* [VSCode](https://code.visualstudio.com/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Yarn](https://yarnpkg.com/)
-
+A project to replicate what happens in the page: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_animate
+<br />
+I found it while i was studying collapsibles in: https://www.w3schools.com/howto/howto_js_collapsible.asp
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Use this as a template.
-Make a copy of this files locally and start your new project
-
+Make a copy of this project in you PC.
 
 
 ### Prerequisites
@@ -131,7 +114,7 @@ With that the app will be running!!!
 
 ## Usage
 
-Here is a area to explain how the project works. In this case is a project to accelerate other projects.
+The project has some bars the intetion is the when clicked on they open a text message with a animation and if clicked again it shall close the text also with a animation.
 
 <p align="center">
   <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
