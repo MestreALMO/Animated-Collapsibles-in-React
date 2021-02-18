@@ -47,7 +47,7 @@
   <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
-A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
+A project created in ReactJS with TS that already includes, the following items to accelerate the production:
 * Yarn
 * EditorConfig;
 * ESLint;
