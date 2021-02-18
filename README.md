@@ -48,6 +48,7 @@
 </p>
 
 A project that I'm replicating what is going on in the page the following page: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_animate
+<br />
 Ifound it while i while i was studing collapsibles in the following link: https://www.w3schools.com/howto/howto_js_collapsible.asp
 
 
